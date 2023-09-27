@@ -5,7 +5,7 @@ My Game Development Portfolio
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Portfolio</title>
+    <title>KibunyaTori - Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -26,7 +26,7 @@ My Game Development Portfolio
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Write a brief introduction about yourself here.</p>
+        <p>Hi my name is KibunyaTori.</p>
     </section>
 
     <section id="projects">
